@@ -21,3 +21,4 @@
 - [OOP & API](https://github.com/20Anya/Anya/blob/main/oop.pdf)
 - [DataBase for Python Developer](https://github.com/20Anya/Anya/blob/main/DataBase.pdf)
 - [Django Base](https://github.com/20Anya/Anya/blob/main/Django.pdf)
+
