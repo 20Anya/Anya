@@ -16,9 +16,8 @@
 
 
 ### Сертификаты:
-- [Python Base]()
-- [Git]()
-- [OOP & API]()
-- [DataBase for Python Developer]()
-- [Django Base]()
-- [Python Developer]()
+- [Python Base](https://github.com/20Anya/Anya/blob/main/PythonBase.pdf)
+- [Git](https://github.com/20Anya/Anya/blob/main/git.pdf)
+- [OOP & API](https://github.com/20Anya/Anya/blob/main/oop.pdf)
+- [DataBase for Python Developer](https://github.com/20Anya/Anya/blob/main/DataBase.pdf)
+- [Django Base](https://github.com/20Anya/Anya/blob/main/Django.pdf)
